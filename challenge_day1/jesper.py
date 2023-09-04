@@ -11,5 +11,5 @@ Sari concluded, "Life may be short, but it's what we make of it that truly matte
 jesper_paragraph2 = '''
 At the beach, everyone paused their activities to watch the sun dip below the horizon. 
 Elisa, Jesper, Martyna, Dima, and Sari admired the stunning sunset's colors reflecting on the water. 
-It was a moment of shared wonder and appreciation for nature's booty, creating memories they would cherish forever.
+It was a moment of shared wonder and appreciation for nature's beauty, creating memories they would cherish forever.
 '''
