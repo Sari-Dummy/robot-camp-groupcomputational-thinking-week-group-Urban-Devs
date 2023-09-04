@@ -13,6 +13,6 @@ a bond forged by nature's breathtaking display. Each subsequent sunset became a 
 dima_paragraph3 = '''
 Weeks had passed since that fateful night on the beach, and the once tight-knit group of friends had drifted even further apart. 
 Elisa had tried to reach out to Jesper, hoping for some sort of reconciliation, but her attempts were met with cold indifference.
-Martyna and Dima, on the other hand, had withdrawnnnnnnnnnnnn from the group entirely.
+Martyna and Dima, on the other hand, had withdrawn from the group entirely.
 Sari, the one who had once held them all together, felt a heavy burden of guilt and sadness. 
 '''
