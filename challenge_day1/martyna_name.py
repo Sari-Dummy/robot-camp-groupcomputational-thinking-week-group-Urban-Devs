@@ -1,14 +1,14 @@
-from dima.py import succulent
-from elisa.py import mushroom
-from jesper.py import conifer
-from sari_name.py import cactus
+from dima import succulent
+from elisa import mushroom
+from jesper import conifer
+from sari_name import cactus
 
 print("Martyna")
 
 decidious = "Martyna"
 
-martyna_paragraph1 = '''
-As the seasons changed, Sari, Martyna, Elisa, Jesper, and Dima continued to embrace their unique roles in the forest.
+martyna_paragraph1 = f'''
+As the seasons changed, {cactus}, Martyna, {mushroom}, {conifer}, and {succulent} continued to embrace their unique roles in the forest.
 To celebrate their differences they decided to go to the beach and have fun.
 '''
 
