@@ -16,5 +16,5 @@ As the last rays of sunlight were disappearing, the tensions were rising.
 
 martyna_paragraph3 = '''
 Unfortunately, Elisa and Jesper never reconciled even though Sari tried her best to bring their friendship back. 
-The withdrawal of Dima led to him finally leaving the country and Martyna decided to disappear as well, she sailed out to the sea.
+The withdrawal of Dima led to him finally leaving the country and Martyna decided to disappear as well, she sailed out into the darkness.
 '''
