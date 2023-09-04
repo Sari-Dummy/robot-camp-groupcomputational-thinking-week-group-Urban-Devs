@@ -1,3 +1,8 @@
+from jesper.py import conifer
+from elisa.py import mushroom
+from martyna_name.py import decidious
+from sari_name.py import cactus
+
 succulent = "Dima"
 
 print("Dima")

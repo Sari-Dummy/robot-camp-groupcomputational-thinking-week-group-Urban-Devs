@@ -1,5 +1,9 @@
 print('Jesper')
-
+from dima.py import succulent
+from elisa.py import mushroom
+from martyna_name.py import decidious
+from sari_name.py import cactus
+conifer = 'Jesper'
 jesper_paragraph1 = ''''
 Sari the cactus agreed with Martyna, "Yes, I only bloom once, but I cherish those moments."
 Elisa the mushroom mentioned, "I provide shelter and nourishment to forest creatures."
