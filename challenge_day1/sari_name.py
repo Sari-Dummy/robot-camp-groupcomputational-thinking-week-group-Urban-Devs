@@ -1,9 +1,7 @@
 print("Sari")
 cactus = "Sari"
-succulent = "Dima"
-conifer = 'Jesper'
-decidious = "Martyna"
-mushroom = "Elisa"
+
+
 
 def sari_paragraph1(mushroom, conifer, decidious, succulent):
     sari_paragraph1 = f'''

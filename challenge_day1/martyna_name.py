@@ -1,4 +1,4 @@
-from sari_name import succulent, mushroom, cactus, conifer
+decidious = "Martyna"
 
 print("Martyna")
 
