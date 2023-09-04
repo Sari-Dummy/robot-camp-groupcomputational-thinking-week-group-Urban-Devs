@@ -1,11 +1,7 @@
-from sari_name import cactus
-from jesper import conifer
-from dima import succulent
-from martyna_name import decidious
+from sari_name import succulent, decidious, cactus, conifer
 
 print("Elisa")
 
-mushroom = "Elisa"
 
 elisa_paragraph1 = f'''
 {cactus} the cactus agreed with {decidious}, acknowledging her short-lived blooms.
