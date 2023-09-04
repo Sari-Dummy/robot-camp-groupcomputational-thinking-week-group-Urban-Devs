@@ -4,7 +4,7 @@ from martyna_name import decidious
 from sari_name import cactus
 print('Jesper')
 conifer = 'Jesper'
-jesper_paragraph1 = f''''
+jesper_paragraph1 = f'''
 {cactus} the cactus agreed with {decidious}, "Yes, I only bloom once, but I cherish those moments."
 {mushroom} the mushroom mentioned, "I provide shelter and nourishment to forest creatures."
 {conifer} the conifer added, "I offer year-round protection and shade."
