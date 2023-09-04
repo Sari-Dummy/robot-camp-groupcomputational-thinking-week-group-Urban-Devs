@@ -19,5 +19,5 @@ elisa_paragraph3 = '''
 Weeks had passed since that fateful night on the beach, and the once tight-knit group of friends had drifted even further apart.
 Elisa's attempts to reconcile with Jesper were met with cold indifference, while Martyna and Dima had withdrawn completely.
 Sari, once the glue that held them together, now bore the heavy burden of guilt and sadness. AHHHHHHH
-Their unbreakable bond seemed frayed, each frieeeeeeeeeeeeeeeeend struggling to find their way back to the shore of friendship.
+Their unbreakable bond seemed frayed, each friend struggling to find their way back to the shore of friendship.
 '''
