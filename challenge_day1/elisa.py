@@ -14,3 +14,10 @@ They found solace in the consistent beauty of nature's evening spectacle and sha
 colorful skies. These sunsets became a symbol of the enduring connection between Sari, Elisa, Jesper, Dima, and Martyna,
 a testament to the lasting power of their shared moments of wonder.
 '''
+
+elisa_paragraph3 = '''
+Weeks had passed since that fateful night on the beach, and the once tight-knit group of friends had drifted even further apart.
+Elisa's attempts to reconcile with Jesper were met with cold indifference, while Martyna and Dima had withdrawn completely.
+Sari, once the glue that held them together, now bore the heavy burden of guilt and sadness.
+Their unbreakable bond seemed frayed, each friend struggling to find their way back to the shore of friendship.
+'''
