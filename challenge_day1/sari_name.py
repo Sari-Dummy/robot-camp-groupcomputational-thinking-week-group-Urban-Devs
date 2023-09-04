@@ -1,10 +1,10 @@
-from dima import succulent
-from elisa import mushroom
-from jesper import conifer
-from martyna_name import decidious
-
 print("Sari")
 cactus = "Sari"
+succulent = "Dima"
+conifer = 'Jesper'
+decidious = "Martyna"
+mushroom = "Elisa"
+
 sari_paragraph1 = f'''
 There was once a called Sari, a mushroom called {mushroom}, a conifer called {conifer},
 a deciduous called {decidious}, and a succulent called {succulent}.
