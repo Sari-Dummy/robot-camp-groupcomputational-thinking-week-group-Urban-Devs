@@ -1,4 +1,11 @@
+from dima.py import succulent
+from elisa.py import mushroom
+from jesper.py import conifer
+from sari_name.py import cactus
+
 print("Martyna")
+
+decidious = "Martyna"
 
 martyna_paragraph1 = '''
 As the seasons changed, Sari, Martyna, Elisa, Jesper, and Dima continued to embrace their unique roles in the forest.
