@@ -16,7 +16,7 @@ the sunlight reflected in the water.
 sari_paragraph3 = '''
 The sunset turned sinister as Jesper's shocking confession about secretly dating Elisa's sister tore their friendship apart.
 Elisa's heartache was palpable, while nearby, Martyna and Dima's feud boiled over
-when Martyna defiantly unfolded her carefully drawn map, leading to a fIrEy confrontation.
+when Martyna defiantly unfolded her carefully drawn map, leading to a firey confrontation.
 Sari, caught in the crossfire, felt their cherished tradition disintegrate,
 a bittersweet memory of happier days as the sun dipped below the horizon.
 '''
