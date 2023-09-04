@@ -1,9 +1,4 @@
-from jesper import conifer
-from elisa import mushroom
-from martyna_name import decidious
-from sari_name import cactus
-
-succulent = "Dima"
+from sari_name import succulent, mushroom, decidious, cactus, conifer
 
 print("Dima")
 
