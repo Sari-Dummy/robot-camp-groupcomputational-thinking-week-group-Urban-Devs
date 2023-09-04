@@ -1,3 +1,5 @@
+succulent = "Dima"
+
 print("Dima")
 
 dima_paragraph1 = '''
