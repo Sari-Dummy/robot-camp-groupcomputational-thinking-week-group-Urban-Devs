@@ -1,9 +1,7 @@
-from dima import succulent
-from elisa import mushroom
-from martyna_name import decidious
-from sari_name import cactus
+from sari_name import succulent, mushroom, decidious, cactus, conifer
+
 print('Jesper')
-conifer = 'Jesper'
+
 jesper_paragraph1 = f'''
 {cactus} the cactus agreed with {decidious}, "Yes, I only bloom once, but I cherish those moments."
 {mushroom} the mushroom mentioned, "I provide shelter and nourishment to forest creatures."
