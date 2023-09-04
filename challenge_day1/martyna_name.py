@@ -17,4 +17,10 @@ As the last rays of sunlight were disappearing, the tensions were rising.
 martyna_paragraph3 = '''
 Unfortunately, Elisa and Jesper never reconciled even though Sari tried her best to bring their friendship back. 
 The withdrawal of Dima led to him finally leaving the country and Martyna decided to disappear as well, she sailed out into the darkness.
+
+By the way, they were still all plants. That just got lost along the way. What with the beach stuff happening.
+But they were definitely plants. With the chloroplast and everything. Did you know that half of cacti are pollinated
+by bats at night? There is only one species of cactus native to Africa, all the others are 
+native to the Americas. They are easy to care for, have their own unique beauty and bloom beautifully. 
+Cacti are really cool.
 '''
