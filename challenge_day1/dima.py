@@ -7,12 +7,14 @@ def dima_paragraph1(cactus, mushroom, conifer, decidious):
     {cactus}, {mushroom}, {conifer}, Dima and {decidious} knew they were unique in their own way and had a purpose. 
     They stood together in the fading light, feeling content with their differences and the beauty of their unity.
     '''
-
+    return(dima_paragraph1)
+    
 def dima_paragraph2(cactus, mushroom, conifer, decidious):
     dima_paragraph2 = f'''
     They decided to start a tradition of watching sunsets together whenever they could, 
     a bond forged by nature's breathtaking display. Each subsequent sunset became a cherished moment in {cactus}'s, {mushroom}'s, {conifer}'s, Dima's and {decidious}'s friendship.
     '''
+    return(dima_paragraph2)
 
 def dima_paragraph3(cactus, mushroom, conifer, decidious):
     dima_paragraph3 = f'''
@@ -21,3 +23,4 @@ def dima_paragraph3(cactus, mushroom, conifer, decidious):
     {decidious} and Dima, on the other hand, had withdrawn from the group entirely.
     {cactus}, the one who had once held them all together, felt a heavy burden of guilt and sadness. 
     '''
+    return(dima_paragraph3)

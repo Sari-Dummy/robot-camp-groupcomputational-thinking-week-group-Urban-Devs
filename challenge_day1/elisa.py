@@ -8,7 +8,8 @@ def elisa_paragraph1(cactus, decidious, conifer, succulent):
     Elisa the mushroom provided shelter and nourishment, {conifer} the conifer offered year-round protection,
     and {succulent} the succulent thrived in arid conditions. They stood united, content with their differences,
     and found purpose in their unique roles in the forest.
-'''
+    '''
+    return(elisa_paragraph1)
 
 def elisa_paragraph2(cactus, decidious, conifer, succulent):
     elisa_paragraph2 = f'''
@@ -18,6 +19,7 @@ def elisa_paragraph2(cactus, decidious, conifer, succulent):
     colorful skies. These sunsets became a symbol of the enduring connection between {cactus}, Elisa, {conifer}, {succulent}, and {decidious},
     a testament to the lasting power of their shared moments of wonder.
     '''
+    return(elisa_paragraph2)
 
 def elisa_paragraph3(cactus, decidious, conifer, succulent):
     elisa_paragraph3 = f'''
@@ -26,3 +28,4 @@ def elisa_paragraph3(cactus, decidious, conifer, succulent):
     {cactus}, once the glue that held them together, now bore the heavy burden of guilt and sadness.
     Their unbreakable bond seemed frayed, each friend struggling to find their way back to the shore of friendship.
     '''
+    return(elisa_paragraph3)

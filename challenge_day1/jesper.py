@@ -10,6 +10,7 @@ def jesper_paragraph1(cactus, decidious, mushroom, succulent):
     {succulent} the succulent softly said, "I thrive in arid conditions where others cannot. We each don't have our own purpose and beauty."
     {cactus} concluded, "Life may be short, but it's what we make of it that truly matters."
     '''
+    return(jesper_paragraph1)
 
 def jesper_paragraph2(cactus, decidious, mushroom, succulent):
     jesper_paragraph2 = f'''
@@ -17,6 +18,8 @@ def jesper_paragraph2(cactus, decidious, mushroom, succulent):
     {mushroom}, {conifer}, {decidious}, {succulent}, and {cactus} admired the stunning sunset's colors reflecting on the water. 
     It was a moment of shared wonder and appreciation for nature's beauty, creating memories they would cherish forever.
     '''
+    return(jesper_paragraph2)
+
 def jesper_paragraph3(cactus, decidious, mushroom, succulent):
     jesper_paragraph3 = f'''
     In the moonlit darkness, their unresolved conflicts festered. {mushroom} couldn't forgive {succulent}'s betrayal, and {decidious} and {succulent} harbored deep resentments.
@@ -24,3 +27,4 @@ def jesper_paragraph3(cactus, decidious, mushroom, succulent):
     As the night grew darker, they silently dispersed, the beach now marred by their broken bonds.
     Under the unforgiving moon, their friendship faded into irreparable disarray, leaving only bitter memories in its wake.
     '''
+    return(jesper_paragraph3)

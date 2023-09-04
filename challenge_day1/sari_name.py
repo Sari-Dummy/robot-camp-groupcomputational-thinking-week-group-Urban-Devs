@@ -10,6 +10,7 @@ def sari_paragraph1(mushroom, conifer, decidious, succulent):
     "Your flower is so short-lived, Sari" the deciduous said, "as a Cactus it only blooms once
     and then wilts off."
     '''
+    return(sari_paragraph1)
 
 def sari_paragraph2(mushroom, conifer, decidious, succulent):
     sari_paragraph2 = f'''
@@ -17,6 +18,7 @@ def sari_paragraph2(mushroom, conifer, decidious, succulent):
     {decidious} was fishing. {succulent} and Sari were making sandcastles. The sunset was approaching and
     the sunlight reflected in the water.
     '''
+    return(sari_paragraph2)
 
 def sari_paragraph3(mushroom, conifer, decidious, succulent):
     sari_paragraph3 = f'''
@@ -26,3 +28,4 @@ def sari_paragraph3(mushroom, conifer, decidious, succulent):
     Sari, caught in the crossfire, felt their cherished tradition disintegrate,
     a bittersweet memory of happier days as the sun dipped below the horizon.
     '''
+    return(sari_paragraph3)

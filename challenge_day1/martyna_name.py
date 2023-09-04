@@ -7,6 +7,7 @@ def martyna_paragraph1(cactus, mushroom, conifer, succulent):
     As the seasons changed, {cactus}, Martyna, {mushroom}, {conifer}, and {succulent} continued to embrace their unique roles in the forest.
     To celebrate their differences they decided to go to the beach and have fun.
     '''
+    return(martyna_paragraph1)
 
 def martyna_paragraph2(cactus, mushroom, conifer, succulent):
     martyna_paragraph2 = f'''
@@ -16,7 +17,8 @@ def martyna_paragraph2(cactus, mushroom, conifer, succulent):
     Martyna and {succulent}'s clashes over sunset locations escalated into shouting matches, 
     and {cactus}, torn between loyalties, found herself in the crossfire of their animosity. 
     As the last rays of sunlight were disappearing, the tensions were rising.
-'''
+    '''
+    return(martyna_paragraph2)
 def martyna_paragraph3(cactus, mushroom, conifer, succulent):
     martyna_paragraph3 = f'''
     Unfortunately, {mushroom} and {conifer} never reconciled even though {cactus} tried her best to bring their friendship back. 
@@ -28,3 +30,4 @@ def martyna_paragraph3(cactus, mushroom, conifer, succulent):
     native to the Americas. They are easy to care for, have their own unique beauty and bloom beautifully. 
     Cacti are really cool.
     '''
+    return(martyna_paragraph3)
