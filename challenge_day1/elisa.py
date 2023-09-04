@@ -12,5 +12,5 @@ As the months passed, Elisa, Jesper, Martyna, Dima, and Sari continued their sun
 strengthening the bond of their friendship with each passing day.
 They found solace in the consistent beauty of nature's evening spectacle and shared their dreams, fears, and aspirations beneath the
 colorful skies. These sunsets became a symbol of the enduring connection between Sari, Elisa, Jesper, Dima, and Martyna,
-a testament to the lasting power of their shared moments of wooooooooooooooooooooooooooooooooonder.
+a testament to the lasting power of their shared moments of wonder.
 '''
