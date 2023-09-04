@@ -1,11 +1,7 @@
-from dima import succulent
-from elisa import mushroom
-from jesper import conifer
-from sari_name import cactus
+from sari_name import succulent, mushroom, decidious, cactus, conifer
 
 print("Martyna")
 
-decidious = "Martyna"
 
 martyna_paragraph1 = f'''
 As the seasons changed, {cactus}, Martyna, {mushroom}, {conifer}, and {succulent} continued to embrace their unique roles in the forest.
