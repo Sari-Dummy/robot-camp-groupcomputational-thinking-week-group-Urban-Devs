@@ -15,7 +15,7 @@ It was a moment of shared wonder and appreciation for nature's beauty, creating 
 '''
 jesper_paragraph3 = '''
 In the moonlit darkness, their unresolved conflicts festered. Elisa couldn't forgive Jesper's betrayal, and Martyna and Dima harbored deep resentments.
-Sari felt helpless as their freindship crumbled.
+Sari felt helpless as their friendship crumbled.
 As the night grew darker, they silently dispersed, the beach now marred by their broken bonds.
 Under the unforgiving moon, their friendship faded into irreparable disarray, leaving only bitter memories in its wake.
 '''
