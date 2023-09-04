@@ -13,3 +13,8 @@ Martyna and Dima's clashes over sunset locations escalated into shouting matches
 and Sari, torn between loyalties, found herself in the crossfire of their animosity. 
 As the last rays of sunlight were disappearing, the tensions were rising.
 '''
+
+martyna_paragraph3 = '''
+Unfortunately, Elisa and Jesper never reconciled even though Sari tried her best to bring their friendship back. 
+The withdrawal of Dima led to him finally leaving the country and Martyna decided to disappear as well, she sailed out to the sea.
+'''
