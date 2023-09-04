@@ -7,7 +7,7 @@ To celebrate their differences they decided to go to the beach and have fun.
 
 martyna_paragraph2 = '''
 The friends' tradition of watching sunsets together grew into something truly special.
-However, one evening the once serene sunset turned into a dramatic spectacleeeee. 
+However, one evening the once serene sunset turned into a dramatic spectacle. 
 Elisa and Jesper's friendship unraveled, bitterness poisoning their interactions. 
 Martyna and Dima's clashes over sunset locations escalated into shouting matches, 
 and Sari, torn between loyalties, found herself in the crossfire of their animosity. 
