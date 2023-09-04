@@ -1,9 +1,9 @@
-import dima.py
-import sari_name.py
-import jesper.py
-import martyna_name.py
-import elisa.py
+import subprocess
 
-print('This is Team YourTeamNameHere. We are:')
-def git_exercise():
-    print('This is Team Urban devs. We are:')
+print('This is Team Urban devs. We are:')
+
+subprocess.run(['python', 'dima.py'])
+subprocess.run(['python', 'sari_name.py'])
+subprocess.run(['python', 'jesper.py'])
+subprocess.run(['python', 'elisa.py'])
+subprocess.run(['python', 'martyna_name.py'])
