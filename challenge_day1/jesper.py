@@ -17,7 +17,7 @@ def jesper_paragraph2 (cactus, decidious, mushroom, conifer):
     {mushroom}, {conifer}, {decidious}, {succulent}, and {cactus} admired the stunning sunset's colors reflecting on the water. 
     It was a moment of shared wonder and appreciation for nature's beauty, creating memories they would cherish forever.
     '''
-def jesper_paragraph1 (cactus, decidious, mushroom, conifer):
+def jesper_paragraph3 (cactus, decidious, mushroom, conifer):
     jesper_paragraph3 = f'''
     In the moonlit darkness, their unresolved conflicts festered. {mushroom} couldn't forgive {conifer}'s betrayal, and {decidious} and {succulent} harbored deep resentments.
     {cactus} felt helpless as their friendship crumbled.

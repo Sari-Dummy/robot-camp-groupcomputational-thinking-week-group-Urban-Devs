@@ -20,7 +20,7 @@ def sari_paragraph2(mushroom, conifer, decidious, succulent):
     the sunlight reflected in the water.
     '''
 
-def sari_paragraph2(mushroom, conifer, decidious, succulent):
+def sari_paragraph3(mushroom, conifer, decidious, succulent):
     sari_paragraph3 = f'''
     The sunset turned sinister as {conifer}'s shocking confession about secretly dating Elisa's sister tore their friendship apart.
     Elisa's heartache was palpable, while nearby, {decidious} and {succulent}'s feud boiled over
