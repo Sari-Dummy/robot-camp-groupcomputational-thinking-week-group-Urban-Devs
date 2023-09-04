@@ -1,5 +1,6 @@
 print('Jesper')
 
+conifer = 'Jesper'
 jesper_paragraph1 = ''''
 Sari the cactus agreed with Martyna, "Yes, I only bloom once, but I cherish those moments."
 Elisa the mushroom mentioned, "I provide shelter and nourishment to forest creatures."
