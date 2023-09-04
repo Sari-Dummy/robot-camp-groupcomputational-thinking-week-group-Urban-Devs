@@ -1,5 +1,7 @@
 print("Elisa")
 
+mushroom = "Elisa"
+
 elisa_paragraph1 = '''
 Sari the cactus agreed with Martyna, acknowledging her short-lived blooms.
 Elisa the mushroom provided shelter and nourishment, Jesper the conifer offered year-round protection,
