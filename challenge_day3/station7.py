@@ -38,6 +38,6 @@ def solution_station_7(equation):
             operator = "mult"
 
     print(result)
-    return result
+    return float(result)
 
 

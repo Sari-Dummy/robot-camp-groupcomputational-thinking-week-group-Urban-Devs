@@ -73,4 +73,5 @@ def solution_station_5(name):
     "Maja M":7,
     }
     number = dictionary[name]
+    print(number)
     return number

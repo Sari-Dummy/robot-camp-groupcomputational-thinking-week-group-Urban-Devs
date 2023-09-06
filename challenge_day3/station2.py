@@ -19,4 +19,5 @@ def solution_station_2(date_string):
         day_in_japanese = '土曜日'
     if day_of_week == 6:
         day_in_japanese = '日曜日'
+    print(day_in_japanese)
     return day_in_japanese
