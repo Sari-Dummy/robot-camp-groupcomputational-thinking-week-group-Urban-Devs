@@ -70,4 +70,8 @@ dictionary = {
     "Emily":"2",
     "Max":"10",
     "Maja M":"7",
-    } 
+    }
+
+def solution_station_5(name):
+    number = dictionary[name]
+    return number

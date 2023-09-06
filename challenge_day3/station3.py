@@ -1,4 +1,5 @@
 def solution_station_3(number):
-    x = number // 3
-    return x
-
+    if number % 3 == 0:
+        return True
+    else:
+        return False
