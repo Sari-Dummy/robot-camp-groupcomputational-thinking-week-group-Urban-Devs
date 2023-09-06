@@ -1,6 +1,7 @@
 station 4
 
 1 false
+5 true
 7 true
 9 false
 12 false
@@ -11,11 +12,13 @@ station 4
 23 true
 24 false
 26 false
+27 false
 31 true
 33 false
 40 false
 42 false
 43 true
+45 false
 46 false
 51 false
 52 false
@@ -27,12 +30,16 @@ station 4
 67 true
 72 false
 76 false
+78 false
+83 true
 85 false
 86 false
 87 false
 90 false
 93 false
+96 false
 97 true 
 98 false
+99 false
 
 prime number?
