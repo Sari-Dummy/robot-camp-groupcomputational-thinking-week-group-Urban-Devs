@@ -1,8 +1,9 @@
 from datetime import datetime
 print('dd-mm-yyyy形式で日付を入力してください。')
 date_string = input()
-date = datetime.strptime(date_string, '%d-%m-%Y')
-def solution_station_2(date):
+def solution_station_2(date_string):
+    date = 0
+    date = datetime.strptime(date_string, '%d-%m-%Y')
     day_of_week = 0
     day_in_japanese = ''
     day_of_week = date.weekday()
@@ -21,5 +22,5 @@ def solution_station_2(date):
     if day_of_week == 6:
         day_in_japanese = '日曜日'
     return day_in_japanese
-japanese_day_of_week = solution_station_2(date)
+japanese_day_of_week = solution_station_2(date_string)
 print('この日付は:', japanese_day_of_week)
