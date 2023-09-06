@@ -1,4 +1,5 @@
-dictionary = {
+def solution_station_5(name):
+    dictionary = {
     "Isis":"1",
     "Mika":"1",
     "Rosa":"1",
@@ -71,7 +72,5 @@ dictionary = {
     "Max":"10",
     "Maja M":"7",
     }
-
-def solution_station_5(name):
     number = dictionary[name]
     return number
