@@ -1,5 +1,3 @@
-equation= "a*b+c+d+e"
-
 def solution_station_7(equation):
     a = 3
     b = -1
@@ -41,8 +39,5 @@ def solution_station_7(equation):
 
     print(result)
     return result
-
-solution_station_7(equation)
-
 
 
