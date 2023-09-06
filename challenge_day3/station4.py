@@ -1,7 +1,7 @@
 def solution_station_4(number):
     # thanks stackoverflow
     state = True
-    if number <= 0:
+    if number <= 1:
         state = False
         print(state)
         return state
