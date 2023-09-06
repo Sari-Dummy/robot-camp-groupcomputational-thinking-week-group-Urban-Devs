@@ -1,7 +1,7 @@
 from datetime import datetime
 def solution_station_2(date_string):
     date = 0
-    date = datetime.strptime(date_string, '%d-%m-%Y')
+    date = datetime.strptime(date_string, '%Y-%m-%d')
     day_of_week = 0
     day_in_japanese = ''
     day_of_week = date.weekday()
