@@ -1,3 +1,11 @@
+from sari_name import succulent, mushroom, decidious, cactus, conifer
+
+print("Martyna")
+
+martyna_paragraph1 = f'''
+As the seasons changed, {cactus}, Martyna, {mushroom}, {conifer}, and {succulent} continued to embrace their unique roles in the forest.
+To celebrate their differences they decided to go to the beach and have fun.
+'''
 decidious = "Martyna"
 
 print("Martyna")
