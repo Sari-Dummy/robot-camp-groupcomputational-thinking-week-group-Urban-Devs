@@ -8,7 +8,6 @@ def solution_station_1(position):
         fib[1] = 1
         for i in range(2, position + 1):
             fib[i] = fib[i - 1] + fib[i - 2]
-        print(fib[position])
         return fib[position]
 
 
