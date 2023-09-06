@@ -1,18 +1,38 @@
 station 4
 
-1 -> false
-12 -> false
-20 -> false
-21 -> false
-26 -> false
-31 -> true
-42 -> false
-52 -> false
-53 -> true
-54 -> false
-72 -> false
-76 -> false
-86 -> false
-87 -> false
-97 -> true 
-99 -> true
+1 false
+7 true
+9 false
+12 false
+13 true
+20 false
+21 false
+22 false
+23 true
+24 false
+26 false
+31 true
+33 false
+40 false
+42 false
+43 true
+46 false
+51 false
+52 false
+53 true
+54 false
+58 false
+63 false
+66 false
+67 true
+72 false
+76 false
+85 false
+86 false
+87 false
+90 false
+93 false
+97 true 
+98 false
+
+prime number?
